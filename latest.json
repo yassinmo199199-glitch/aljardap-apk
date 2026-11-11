@@ -1,9 +1,9 @@
 {
-    "versionCode":  40,
-    "versionName":  "1.39",
+    "versionCode":  41,
+    "versionName":  "1.40",
     "fileName":  "app-release.apk",
-    "url":  "https://github.com/yassinmo199199-glitch/aljardap-apk/releases/download/v1.39/app-release.apk",
-    "sha256":  "d1cad06801c77af3d6f47b6a1a9403e2bc32a373b7e69a4a453ad9695bc5afcf",
+    "url":  "https://github.com/yassinmo199199-glitch/aljardap-apk/releases/download/v1.40/app-release.apk",
+    "sha256":  "253c4cdaf6cdeac709c91eab285cd3c296d0774401e55c638c4ced6a1968a453",
     "size":  24353849,
-    "publishedAt":  "2026-11-11T15:04:22Z"
+    "publishedAt":  "2026-11-11T15:57:26Z"
 }
